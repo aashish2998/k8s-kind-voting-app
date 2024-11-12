@@ -30,16 +30,11 @@ This guide covers the steps to:
 * A [Node.js](/result) web app which shows the results of the voting in real time
 
 
-
-## Resume Description
-
-### Project Title: 
-
 Automated Deployment of Scalable Applications on AWS EC2 with Kubernetes and Argo CD
 
 ### Description: 
 
-Led the deployment of scalable applications on AWS EC2 using Kubernetes and Argo CD for streamlined management and continuous integration. Orchestrated deployments via Kubernetes dashboard, ensuring efficient resource utilization and seamless scaling.
+Deployment of scalable applications on AWS EC2 using Kubernetes and Argo CD for streamlined management and continuous integration. Orchestrated deployments via Kubernetes dashboard, ensuring efficient resource utilization and seamless scaling.
 
 ### Key Technologies:
 
@@ -55,6 +50,4 @@ Achieved seamless scaling and high availability, supporting 99.9% uptime for cri
 This project description emphasizes your role in leveraging AWS EC2, Kubernetes, and Argo CD to optimize application deployment and management processes effectively.
 
 
-### Aapke DevOps Wale Bhaiya
-### [TrainWithShubham](https://www.trainwithshubham.com/)
 
